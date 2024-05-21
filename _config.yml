@@ -11,7 +11,7 @@ title: Valentine Patterson
 # Description of the Site
 description: Evolutionary and Computational Biologist
 # URL of Image of the Site
-site-image: https://github.com/Valentine022/valentinepatterson.github.io/blob/58cd8006c87d9a501af48b407cc460785a563bf6/assets/images/IMG_1915.jpg
+site-image: https://raw.githubusercontent.com/Valentine022/valentinepatterson.github.io/main/assets/images/IMG_1915.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -45,7 +45,7 @@ author-name: About Me
 # URL for the Image of the Author
 author-image: /Users/valentine/valentinepatterson.github.io/IMG_4371.JPG
 # 60 Words About the Author
-author-about: Having completed my undergraduate studies in Zoology at Cardiff University, I embarked on a journey of academic exploration and professional development. My postgraduate endeavors led me to Queen Mary University of London, where I pursued an MSc in Ecology and Evolutionary Genomics. During this period, I delved into the intricacies of molecular diagnostics, focusing particularly on assessing pollinator health—a critical aspect of ecosystem dynamics. \n Building upon my MSc experience, I further developed my research skills through a PhD program at Johanes Gutenberg University, Mainz. My doctoral research centered on unraveling the genetic and epigenetic diversity within clonal whiptail lizards, providing valuable insights into the mechanisms driving evolutionary adaptation in reptilian populations. \n Driven by a passion for understanding the complexities of biological systems, I am deeply interested in using molecular and bioinformatic tools to unravel the phenotypic responses of organisms to environmental changes. Through my interdisciplinary approach, I aspire to contribute meaningfully to the fields of ecology and evolutionary biology, with a focus on enhancing conservation efforts and fostering resilience in natural ecosystems.
+author-about: I am currently a postdoc in the Baumann Lab research group at the Johanes Gutenberg University, Mainz, where I completed my PhD. My doctoral research centered on unraveling the genetic and epigenetic diversity within clonal whiptail lizards, providing valuable insights into the mechanisms driving evolutionary adaptation in clonal reptilian populations. I am deeply interested in using molecular and bioinformatic tools to unravel the phenotypic responses of organisms to environmental changes. Through my interdisciplinary approach, I aim to contribute meaningfully to the fields of ecology and evolutionary biology, with a focus on enhancing conservation efforts and fostering resilience in natural ecosystems. This interest in leveraging genomics to understand ecosystem dynamics began in my Zoology degree from Cardiff University. This interest was further developed at Queen Mary University of London, where I pursued a Master's in Ecology and Evolutionary Genomics. During this time, I focused on molecular diagnostics, focusing particularly on assessing pollinator health—a critical aspect of ecosystem dynamics.
 # URL to the Author's Profile (i.e., Github, Twitter)
 author-url: https://github.com/thedevslot
 
